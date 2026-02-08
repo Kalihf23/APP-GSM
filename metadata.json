@@ -1,0 +1,7 @@
+{
+  "name": "GSM Performance Management Suite",
+  "description": "An internal management application for GSM Performance agents, supervisors, and administrators, featuring KPI tracking, team messaging, financial management (Caisse), and advanced reporting integrated with Google Sheets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
